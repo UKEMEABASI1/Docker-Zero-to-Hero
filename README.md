@@ -96,7 +96,7 @@ I hope it is now very clear why containers are light weight in nature.
 
 ### What is Docker ?
 
-Docker is a containerization platform that provides easy way to containerize your applications, which means, using Docker you can build container images, run the images to create containers and also push these containers to container regestries such as DockerHub, Quay.io and so on.
+Docker is a containerization platform that provides easy way to containerize your applications, which means, using Docker you can build container images, run the images to create containers and also push these containers to container registries such as DockerHub, Quay.io and so on.
 
 In simple words, you can understand as `containerization is a concept or technology` and `Docker Implements Containerization`.
 
@@ -115,7 +115,7 @@ There are three important things,
 
 1. docker build -> builds docker images from Dockerfile
 2. docker run   -> runs container from docker images
-3. docker push  -> push the container image to public/private regestries to share the docker images.
+3. docker push  -> push the container image to public/private registries to share the docker images.
 
 ![Screenshot 2023-02-08 at 4 32 13 PM](https://user-images.githubusercontent.com/43399466/217511949-81f897b2-70ee-41d1-b229-38d0572c54c7.png)
 
